@@ -25,7 +25,7 @@ describe("Anna's Laundry assumptions", () => {
     expect(getMaxPair(numberMachineCanWash, cleanPile, dirtyPile)).toBe(4);
   });
 });
-
+;
 describe("Anna's Laundry Spec", () => {
   test('for a simple case', () => {
     const numberMachineCanWash = 2;
